@@ -1,4 +1,4 @@
-// LINK - https://www.interviewbit.com/problems/distribute-candy/  
+// LINK - https://www.interviewbit.com/problems/longest-increasing-subsequence/ 
 // MEDIUM
 
 #include <bits/stdc++.h>
