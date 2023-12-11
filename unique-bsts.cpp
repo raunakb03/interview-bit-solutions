@@ -8,7 +8,7 @@
  * };
  */
 
-// LINK - https://www.interviewbit.com/problems/distribute-candy/
+// LINK - https://www.interviewbit.com/problems/unique-binary-search-trees/
 // MEDIUM
 
 #include <bits/stdc++.h>
